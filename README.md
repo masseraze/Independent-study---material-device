@@ -1,1 +1,1 @@
-# Independent-study---material-device
+# Independent-study - material & device
