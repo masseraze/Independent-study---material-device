@@ -7,6 +7,10 @@
 ## Outcome
 The in situ current stressing synchrotron radiation-based XRD was performed for the Cu2Se in this time's experiment. We used the grazing incident angle XRD method to perform the experiment. Figure 1 shows the XRD pattern for the as-received Cu2Se sample and it showed an alpha structure (monoclinic). 
 
+<div align=center><img src="https://user-images.githubusercontent.com/26044795/205794097-c4df6575-5729-41de-86ee-882ba4e8975e.png"></div>
+<div align=center> Figure 1. </div><br>
+
+
 Figure 2 shows the XRD pattern evolution under pure aging of 750K for 20 min. We found that the alpha structure would transform into beta structure (cubic). This agrees with the phase diagram that 750K is the single phase region for beta phase. 
 
 <div align=center><img width=50% src="https://user-images.githubusercontent.com/26044795/205791539-414f9500-32bb-4311-93f0-624ea052f584.png"></div>
