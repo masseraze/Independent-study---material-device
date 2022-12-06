@@ -7,5 +7,15 @@ I have experienced in
 
 ## [Phase stability of thermoelectric material](https://github.com/masseraze/Independent-study-material-device/tree/main/phase%20stability%20of%20thermoelectric%20material)
 
+electromigration
+
+on detail in the file of 
+
+improvement
+
+
+self-made apparatus
+
+
 
 ## Thermoelectric measurement and thermoelectric device
