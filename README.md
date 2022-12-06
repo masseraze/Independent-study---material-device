@@ -7,9 +7,12 @@ I have experienced in
 
 ## [Phase stability of thermoelectric material](https://github.com/masseraze/Independent-study-material-device/tree/main/phase%20stability%20of%20thermoelectric%20material)
 
-electromigration
+Thermoelectric material 
+However, the [article](https://www.nature.com/articles/s41467-018-05248-8) points out that critical voltage will deposit Cu on  Cu<sub>2</sub>Se cathode because soret effect and solid state chemistry will impact on mixed iconic-electronic conductor.
 
-on detail in the file of 
+Beside, electric current will affect phase equilibrium because of eletromigration mechanism so we have to clarify the difference .
+
+the detail of experiment in the file
 
 #### improvement
 Samples are oxided when they are applied high dense electric current(3.5A), so we have to to do design beryllium window to get insight Cu<sub>2</sub>Se physical properties 
