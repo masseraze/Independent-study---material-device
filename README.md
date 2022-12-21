@@ -1,6 +1,6 @@
 # Independent-study - material & device
 
-I have experienced in 
+I have experience in material and device research and use interdisciplinary skills to solve problems.
 
 ## [High-Entropy Alloy thin flim](https://github.com/masseraze/Independent-study-material-device/tree/main/high-entropy%20alloy%20thin%20film)
 The high-entropy alloys have been reported to have unique properties such as the high-entropy effect, the lattice distortion effect, sluggish diffusion effect, and the cocktail effect, making their mechanical properties superior to most of the conventional alloys. However, more different impurities in an alloy will reduce the material's electrical conductance in general. 
@@ -21,8 +21,6 @@ Samples are oxided when they are applied high dense electric current(3.5A), so w
 #### Self-design apparatus(beryllium window)
 
 <div align=center><img width=40% src="https://user-images.githubusercontent.com/26044795/205796197-78b41740-e510-4d19-aafc-85f5accd9e63.png"> &emsp; &emsp; <img width=30% src="https://user-images.githubusercontent.com/26044795/205796242-5db39bd2-484e-4ee3-81bd-8b3f07196987.png"></div>
-
-
 
 
 ## Thermoelectric measurement and thermoelectric device
