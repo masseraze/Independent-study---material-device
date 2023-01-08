@@ -10,7 +10,7 @@ We aims to exploit the field of high-conductive high-entropy alloys thin films, 
 <div align=center><img width=30% src="https://user-images.githubusercontent.com/26044795/208954698-f6ae8543-81f0-4a17-b0e1-222e907471e3.jpg"></div>
 
                                       
-<p align="center">Got the first place in NCKUEE Independent Study Competition</p> 
+<p align="center">Got the <strong>first place</strong> in NCKUEE Independent Study Competition</p> 
 
 ## [Phase stability of thermoelectric material](https://github.com/masseraze/Independent-study-material-device/tree/main/phase%20stability%20of%20thermoelectric%20material)
 
