@@ -10,14 +10,14 @@ We aims to exploit the field of high-conductive high-entropy alloys thin films, 
 <div align=center><img width=30% src="https://user-images.githubusercontent.com/26044795/208954698-f6ae8543-81f0-4a17-b0e1-222e907471e3.jpg"></div>
 
                                       
-                                         Got the first place in NCKUEE Independent Study Competition
+<p align="center">Got the first place in NCKUEE Independent Study Competition</p> 
+
 ## [Phase stability of thermoelectric material](https://github.com/masseraze/Independent-study-material-device/tree/main/phase%20stability%20of%20thermoelectric%20material)
 
 Cu-based materials are mixed iconic-electronic conductors with  liquid-like sublattice and they have execellent ZT property in thermoeletric field.
 However, the [article](https://www.nature.com/articles/s41467-018-05248-8) points out that critical voltage will deposit Cu on  Cu<sub>2</sub>Se cathode because soret effect and solid state chemistry will impact on mixed iconic-electronic conductor.
 
-Beside, electric current will affect phase equilibrium because of eletromigration mechanism so we have to clarify the difference .
-The further detail of experiment is in the [file](https://github.com/masseraze/Independent-study-material-device/tree/main/phase%20stability%20of%20thermoelectric%20material)
+Furthermore, because of the eletromigration mechanism, electric current will affect phase equilibrium, so we must understand the relationship between phase stability, soret effect, and eletromigration.The further detail of experiment is in the [file](https://github.com/masseraze/Independent-study-material-device/tree/main/phase%20stability%20of%20thermoelectric%20material)
 
 #### Improvement
 Samples are oxided when they are applied high dense electric current(3.5A), so we have to to do design beryllium window to get insight Cu<sub>2</sub>Se physical properties 
